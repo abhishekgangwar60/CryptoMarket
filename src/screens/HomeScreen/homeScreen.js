@@ -6,7 +6,6 @@ export default class HomeScreen extends React.Component {
         return (
             <View style={styles.container}>
                 <Text>All Coins Working</Text>
-                <Text>This is second line</Text>
             </View>
         );
     }
